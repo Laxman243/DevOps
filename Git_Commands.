@@ -1,0 +1,29 @@
+- Creating a new repository on GitHub.
+ 
+* Go to your repository and create a new repository with unique name.
+
+- Clone the repository using https method.
+
+--> after creating the repository, if you wants the particular file on your system then go for clone
+ *  use Command  " git clone <repository URL>"
+
+--> initialize repository.
+ *   use command " git init"  Create an empty Git repository or reinitialize an existing one.
+
+--> Commit and push operation in master branch.
+ *  git commit -am "<Feature-Ticket-Number>: message"
+
+
+- Commit and push operation in featured branch
+- Pull request creation and Merging the pull request to master.
+- rebase featured branch with master branch.
+- Study git config variables,
+- Study GitHub API token , personal token, 
+- Study about GitHub web hooks. 
+"
+
+https://<user-name>:<api-token>@<repo-url>
+
+9b21ff4f123c889ae6a6222e511beb78c184dc49
+
+https://<laxman243>:<9b21ff4f123c889ae6a6222e511beb78c184dc49>@github.com/Laxman243/DevOps.git
