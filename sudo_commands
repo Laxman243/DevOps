@@ -1,5 +1,0 @@
-1) What are the differences between “su”, “sudo -s”, “sudo -i”, “sudo su”? 
-
-sudo su means run the command su as sudo which means as root. Here the system will ask you for your password since you are a sudoer. After you enter your password, you 
-now have root privileges. So su command won't ask for a password. It's same as if you are a root then su to any other user will not ask for password because you are a root.
-When you just run the command su, you are running it as a regular user. Since su means switch to user root, you will be asked for the root password.
