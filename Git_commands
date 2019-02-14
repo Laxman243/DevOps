@@ -1,0 +1,16 @@
+Please post another message in group, saying
+
+"
+I'm done with reading these theoretical topics, now moving towards
+
+ - Creating a new repository on GitHub
+- Clone the repository using https method 
+- initialize repository.
+- Commit and push operation in master branch
+- Commit and push operation in featured branch
+- Pull request creation and Merging the pull request to master.
+- rebase featured branch with master branch.
+- Study git config variables,
+- Study GitHub API token , personal token, 
+- Study about GitHub web hooks.
+"

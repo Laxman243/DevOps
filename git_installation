@@ -1,0 +1,14 @@
+Steps to Installing Git on Linux OS :
+
+1)Install Git using apt -get command
+	sudo apt -get install git
+
+2) Verify Installation 
+	git --verssion / --v
+
+3)Configure your git username and email 
+	git config --global user.name "username"
+	git config --global user.email "useremailaddress"
+	
+	this global indicates that you have intsall git globally, 
+	it means from any location(directory /folder) you allow to use git cmmds.
