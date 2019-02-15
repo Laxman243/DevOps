@@ -1,0 +1,23 @@
+installation Virtual box
+-------------------------
+
+Download the virtual box iso file from the internet
+Install it like how you install other software
+
+Installation Ubuntu on Virtual box
+------------------------------------
+1)Download Linux ISO
+2)Install Linux using VirtualBox
+	click on new one pop window will come fill it and click next
+3)give memory size 10 GB to 20 GB ,better to give more than 10GB
+	click next
+4)Hard Disk : Create a virtual hard disk now 
+5)Hard Disk File Type: VDI
+6)Storage on physical hard disk :Dynamically allocated
+7)Click on Ubuntu image display on left side, and if system not reading linux iso file ,then browse it
+8)and then go for installation
+
+Done above things
+
+2)GitHub remaining commands.
+
