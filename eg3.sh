@@ -16,6 +16,3 @@ cd /var/lib/jenkins/workspace/hello
 
 bash 
 
-name="HELLO_WORLD"
-
-echo ${name}
