@@ -14,5 +14,3 @@ set -ex
 
 cd /var/lib/jenkins/workspace/hello
 
-bash 
-
