@@ -1,0 +1,16 @@
+● jenkins.service - LSB: Start Jenkins at boot time
+   Loaded: loaded (/etc/init.d/jenkins; generated)
+   Active: active (exited) since Tue 2019-02-19 12:04:52 IST; 7h ago
+     Docs: man:systemd-sysv-generator(8)
+    Tasks: 0 (limit: 2927)
+   CGroup: /system.slice/jenkins.service
+
+Feb 19 12:04:46 laxman-VirtualBox systemd[1]: Starting LSB: Start Jenkins at boot time...
+Feb 19 12:04:49 laxman-VirtualBox jenkins[709]: Correct java version found
+Feb 19 12:04:50 laxman-VirtualBox jenkins[709]:  * Starting Jenkins Automation Server jenkins
+Feb 19 12:04:50 laxman-VirtualBox su[833]: Successful su for jenkins by root
+Feb 19 12:04:50 laxman-VirtualBox su[833]: + ??? root:jenkins
+Feb 19 12:04:50 laxman-VirtualBox su[833]: pam_unix(su:session): session opened for user jenkins by (uid=0)
+Feb 19 12:04:51 laxman-VirtualBox su[833]: pam_unix(su:session): session closed for user jenkins
+Feb 19 12:04:52 laxman-VirtualBox jenkins[709]:    ...done.
+Feb 19 12:04:52 laxman-VirtualBox systemd[1]: Started LSB: Start Jenkins at boot time.
