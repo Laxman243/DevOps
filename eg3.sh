@@ -11,6 +11,7 @@ grep ^Active:active hello.txt
 #in jenkin command shell script
 #!/bin/bash
 set -ex
-
+var="laxman"
+echo $var
 cd /var/lib/jenkins/workspace/hello
 
